@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NoteKeeper</string>
+    <string name="interstitial_ad_sample">Interstitial Ad Sample</string>
+    <string name="level_one">Level One</string>
+    <string name="level_two">Level Two</string>
+
+    <string name="ad_id_banner">ca-app-pub-6306990541421535/1918825091</string>
+    <string name="gameHeader">My Game App</string>
+</resources>
